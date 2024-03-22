@@ -1,0 +1,30 @@
+{
+  "EmpData": [
+    {
+      "id": "1",
+      "name": "Hiren",
+      "salary": "123"
+    },
+    {
+      "id": "34d1",
+      "name": "Darshan",
+      "salary": "1212121"
+    },
+    {
+      "id": "1ee6",
+      "name": "awdfawdd",
+      "salary": "sdgfsrf"
+    },
+    {
+      "name": "asf",
+      "salary": "zdf",
+      "id": "f9e4"
+    },
+    {
+      "id": "961b",
+      "name": "aaaaa",
+      "salary": "bbbb",
+      "file": "blob:http://localhost:3000/95035eba-dd9e-4d61-9c66-349ef8225007"
+    }
+  ]
+}

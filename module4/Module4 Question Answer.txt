@@ -1,0 +1,15 @@
+Q) Explain Life cycle in Class Component and functional component with Hooks.
+
+	In CLASS COMPONENTS, the lifecycle methods are used to manage the component's state and perform actions at different stages of thecomponent's lifecycle.
+
+	In FUNCTIONAL COMPONENTS with Hooks, you can achieve the same result as class components by using the following hooks:
+	-> to manage the component's state.
+	-> to perform actions at different stages of the component's lifecycle.
+	-> to access the context of the component.
+	-> to manage complex state logic.
+	-> to access the DOM or store mutable values.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q) First we need to know what is hooks?
+
+	Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
